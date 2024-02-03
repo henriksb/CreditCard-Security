@@ -189,10 +189,13 @@ In case of a fraudulent charge, the burden of proof lies with the merchant. As a
 
 But not only this, criminals have other ways of getting around 2-FA. There is something called [SIM Swapping](https://en.wikipedia.org/wiki/SIM_swap_scam). 
 
-<mark>
-“The fraud exploits a mobile phone service provider's ability to seamlessly port a phone number to a device containing a different subscriber identity module (SIM). This mobile number portability feature is normally used when a phone is lost or stolen, or a customer is switching service to a new phone.”
+```
+“The fraud exploits a mobile phone service provider's ability to seamlessly port a
+phone number to a device containing a different subscriber identity module (SIM).
+This mobile number portability feature is normally used when a phone is lost or stolen,
+or a customer is switching service to a new phone.”
 -Wikipedia
-</mark>
+```
 This means that the attacker needs to trick the service provider into swapping the number to a different phone. This attack is more common than you would think.
 
 There are also mentions of large websites not requiring the CVV code, as again, this is only an additional step to prove that you made the purchase. It is not actually needed in order to make a purchase. However, I have not personally been able to find any websites that does not require the CVV.
