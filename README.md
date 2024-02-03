@@ -38,7 +38,7 @@ Within this repository, I aim to demystify the various facets of credit card fra
 There are numerous ways that the details of a credit card can be stolen. This list included the most creative and common ways it can be done. There are certainly more ways it could be done.
 
 ### Social Media
-Have you ever noticed how many mirror selfies there are on social media platforms? It doesn't take a long time to find some mirror selfie that has cards in the back of their phone case, inadvertently revealing parts of their credit cards.
+Have you ever noticed how many mirror selfies there are on social media platforms? Quickly browsing through, one can easily encounter a mirror selfie where the individual's phone case, holding their cards, inadvertently exposes portions of their credit card details.
 
 ![mirror](Images/mirrorselfie.webp)
 (Poorly generated DALL-E picture, but you get the point)
