@@ -35,7 +35,7 @@ I strongly advise against any illegal actions and recommend always adhering to t
 Within this repository, I aim to demystify the various facets of credit card fraud by compiling a comprehensive list of information on the subject. Recognizing the scarcity of detailed resources available online and the critical importance of this issue, I felt compelled to create this guide. It is designed exclusively for educational purposes, with the goal of enlightening individuals on the intricacies of credit card security. By providing this knowledge, my intention is to equip people with the tools they need to protect themselves and to promote a broader understanding of how to navigate the complexities of financial security in today's digital world.
 
 ## How are Credit Cards Stolen?
-There are numerous ways that the details of a credit card can be stolen. This list included the most creative and common ways it can be done. There are certainly more ways it could be done.
+There are numerous ways that the details of a credit card can be stolen. This list includes the most creative and common ways it can be done. But there are certainly more ways it could be done.
 
 ### Social Media
 Have you ever noticed how many mirror selfies there are on social media platforms? Quickly browsing through, one can easily encounter a mirror selfie where the individual's phone case, holding their cards, inadvertently exposes portions of their credit card details.
