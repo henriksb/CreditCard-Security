@@ -1,6 +1,8 @@
 # Credit Card Security
 Welcome to a succinct yet thorough exploration of credit card security, focusing on the mechanisms of theft and misuse. This guide delves into the operational foundations of credit cards, shedding light on their functionality and the vulnerabilities that fraudsters exploit. By understanding the inner workings of credit card transactions, we equip ourselves with the knowledge to identify and prevent potential threats, safeguarding our financial integrity against unauthorized access and abuse.
 
+Feel free to correct any errors. This guide was written to learn about credit cards, and may contain errors.
+
 ## Disclaimer
 
 Please note that the content provided in this document is intended solely for educational purposes. The aim is to raise awareness and provide information on credit card security and related topics. This document is not meant to serve as a comprehensive guide and should not be interpreted as encouragement or instruction to engage in any form of illegal activity. 
