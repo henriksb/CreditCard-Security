@@ -118,7 +118,7 @@ and there is a logo of "Sparebank 1", a Norwegian bank. If we search for "Spareb
 |-------- |------|-------|----------------   |
 | 410651  | visa | debit | NO SPAREBANK 1    |
 
-If we combine this with the Luhn brute force, we see that the card numbers can be guessed, even if up to six numbers are missing.
+If we combine this with the Luhn brute force (if another random number is missing), we see that the card numbers can be guessed, even if up to seven numbers are missing.
 
 In addition to this, some cards have **all** information visible on one side. Most cards have the CVV on the back, which makes it more secure to the "selfie attack", but for some reason not all.
 
